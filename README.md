@@ -20,3 +20,6 @@ A simple and responsive **Calculator Web App** built using **HTML, CSS, and Java
 * Handling user input and events
 * Building responsive layouts using CSS
 * Managing calculation logic and edge cases
+
+## 🌐 Live Demo
+https://calculator-nine-rust-3yt6ccohoz.vercel.app/
